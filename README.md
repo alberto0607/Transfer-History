@@ -73,7 +73,7 @@ El resultado son las tablas y gráficas que resumen estos datos tanto a nivel de
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras errores, mejoras o nuevas características que se puedan agregar al proyecto, no dudes en enviar una solicitud de extracción.
-También puedes dejar un comentario en mi blog (enlace del blog)
+También puedes dejar un comentario en mi blog, [ver aquí](https://ecency.com/hive-139531/@alberto0607/script-en-python-analisis-de)
 
 ## Licencia
 
